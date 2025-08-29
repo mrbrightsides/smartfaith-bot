@@ -10,7 +10,7 @@ Telegram bot untuk **SmartFaith**, platform AI Islami berbasis chatbot.
 Bot ini memungkinkan interaksi cepat via Telegram untuk:
 - Tanya jawab seputar Islam
 - Akses fitur SmartFaith langsung dari chat
-- Integrasi keep-alive agar bot tetap online
+- Integrasi keep-alive menggunakan NSSM agar bot tetap online
 
 ---
 
