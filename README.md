@@ -1,5 +1,11 @@
 # 🤖 smartfaith_bot
 
+[![Telegram](https://img.shields.io/badge/Telegram-@smartfaith__bot-229ED9?logo=telegram&logoColor=white)](https://t.me/smartfaith_bot)
+[![Open in SmartFaith](https://img.shields.io/badge/Open%20App-smartfaith.streamlit.app-FF4B4B?logo=streamlit&logoColor=white)](https://smartfaith.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mrbrightsides/smartfaith-bot/pulls)
+
 Telegram bot untuk **SmartFaith**, platform AI Islami berbasis chatbot.  
 Bot ini memungkinkan interaksi cepat via Telegram untuk:
 - Tanya jawab seputar Islam
@@ -10,9 +16,10 @@ Bot ini memungkinkan interaksi cepat via Telegram untuk:
 
 ## ✨ Fitur Utama
 
-- 🔹 **AI Chatbot**: Tanya jawab interaktif dengan dukungan bahasa alami.  
-- 🔹 **Integrasi Telegram**: Mudah digunakan lewat @smartfaith_bot.  
-- 🔹 **Logging & Monitoring**: Catatan interaksi untuk debugging.    
+- 💬 **AI Chatbot**: Tanya jawab interaktif dengan dukungan bahasa alami.  
+- 🔗 **Integrasi Telegram**: Mudah digunakan lewat @smartfaith_bot.  
+- 🧾 **Logging & Monitoring**: Catatan interaksi untuk debugging.
+- 🧪 **Command dasar**: start/help, tanya/quote (contoh).    
 
 ---
 
